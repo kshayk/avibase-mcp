@@ -1,5 +1,5 @@
 {
-  "name": "avibase-mcp",
+  "name": "@kshayk/avibase-mcp",
   "version": "1.0.0",
   "description": "AviBase MCP for Claude Desktop",
   "main": "index.js",
