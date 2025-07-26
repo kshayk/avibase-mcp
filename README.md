@@ -50,8 +50,8 @@ Add the server to your Claude Desktop configuration file:
 {
   "mcpServers": {
     "avibase": {
-      "command": "node",
-      "args": ["path/to/mcp-server.js"]
+      "command": "npx",
+      "args": ["@kshayk/avibase-mcp"]
     }
   }
 }

@@ -2,7 +2,7 @@
   "name": "@kshayk/avibase-mcp",
   "version": "1.0.0",
   "description": "AviBase MCP for Claude Desktop",
-  "main": "index.js",
+  "main": "mcp-server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
