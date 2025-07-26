@@ -1,7 +1,8 @@
 {
   "name": "@kshayk/avibase-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AviBase MCP for Claude Desktop",
+  "type": "module",
   "main": "mcp-server.js",
   "bin": {
     "avibase-mcp": "./mcp-server.js"
