@@ -18,7 +18,7 @@ import {
 } from '@modelcontextprotocol/sdk/types.js';
 import fetch from 'node-fetch';
 
-const API_BASE_URL = 'http://shayk.dev/avibase-mcp';
+const API_BASE_URL = 'http://shayk.dev/avibase-mcp/api';
 
 class BirdDataMCPServer {
   constructor() {
